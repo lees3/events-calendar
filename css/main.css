@@ -1,39 +1,55 @@
+html {
+  font-family: Merriweather, serif;
+}
+
 .grey-box {
-background-color: #ccc;
-border-style: solid;
-border-color: #666;
-border-radius: 8px;
-border-width: thin;
-color: #333;
+  background-color: #ccc;
+  border-style: solid;
+  border-color: #666;
+  border-radius: 8px;
+  border-width: thin;
+  color: #333;
 }
 
 .red-box {
-background-color: #f2bcbc;
-border-style: solid;
-border-color: #b92828;
-border-radius: 8px;
-border-width: thin;
-color: #991919;
+  background-color: #f2bcbc;
+  border-style: solid;
+  border-color: #b92828;
+  border-radius: 8px;
+  border-width: thin;
+  color: #991919;
 }
 
 .green-box {
-background-color: #d1e0bf;
-border-style: solid;
-border-color: #6b7e54;
-border-radius: 8px;
-border-width: thin;
-color: #51603f;
+  background-color: #d1e0bf;
+  border-style: solid;
+  border-color: #6b7e54;
+  border-radius: 8px;
+  border-width: thin;
+  color: #51603f;
 }
 
 .blue-box {
-background-color: #d2d6f0;
-border-style: solid;
-border-color: #1d38da;
-border-radius: 8px;
-border-width: thin;
-color: #38448e;
+  background-color: #d2d6f0;
+  border-style: solid;
+  border-color: #1d38da;
+  border-radius: 8px;
+  border-width: thin;
+  color: #38448e;
 }
 
 table {
   min-width: 50em;
+  border-color: #f2f2f2;
+  border-style: solid;
+  border-width: thin;
+  border-collapse: collapse;
+}
+
+td {
+  height: 10em;
+}
+
+th, td {
+  border: 1px solid #f2f2f2;
 }
