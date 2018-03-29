@@ -1,0 +1,39 @@
+.grey-box {
+background-color: #ccc;
+border-style: solid;
+border-color: #666;
+border-radius: 8px;
+border-width: thin;
+color: #333;
+}
+
+.red-box {
+background-color: #f2bcbc;
+border-style: solid;
+border-color: #b92828;
+border-radius: 8px;
+border-width: thin;
+color: #991919;
+}
+
+.green-box {
+background-color: #d1e0bf;
+border-style: solid;
+border-color: #6b7e54;
+border-radius: 8px;
+border-width: thin;
+color: #51603f;
+}
+
+.blue-box {
+background-color: #d2d6f0;
+border-style: solid;
+border-color: #1d38da;
+border-radius: 8px;
+border-width: thin;
+color: #38448e;
+}
+
+table {
+  min-width: 50em;
+}
